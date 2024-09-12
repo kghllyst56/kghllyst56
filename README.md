@@ -1,4 +1,7 @@
-## Hi there 👋
+## BEM-VIND*S AO MEU CANTO DE ESTUDO. 👋
+Oi Sou a Giovanna aluna Alura.
+Admiradora de arte, e amante de exatas.
+
 
 <!--
 **kghllyst56/kghllyst56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
